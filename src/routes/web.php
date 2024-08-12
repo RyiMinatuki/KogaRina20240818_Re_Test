@@ -16,4 +16,3 @@ use App\Http\Controllers\ContactController;
 
 // お問い合わせ入力ページ
 Route::get('/', [ContactController::class, 'index']);
-Route::post('/')
