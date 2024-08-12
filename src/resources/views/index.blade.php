@@ -20,6 +20,12 @@
 
     <main class="main">
         <h2 class="title">Content</h2>
+
+        <div class="contact">
+            <form action="" method="post" class="contact_form">
+                
+            </form>
+        </div>
     </main>
     
 </body>
